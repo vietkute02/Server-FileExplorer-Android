@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res" >
+            <file
+                name="action_copy"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/action_copy.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="action_cut"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/action_cut.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="action_delete"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/action_delete.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="action_share"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/action_share.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="action_zip"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/action_zip.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="bookmark_icon"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/bookmark_icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="filetype_apk"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/filetype_apk.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="filetype_dir"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/filetype_dir.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="filetype_generic"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/filetype_generic.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="filetype_image"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/filetype_image.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="filetype_music"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/filetype_music.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="filetype_sdcard"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/filetype_sdcard.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="filetype_sys_dir"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/filetype_sys_dir.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="filetype_sys_file"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/filetype_sys_file.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="filetype_video"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/filetype_video.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="filetype_zip"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/filetype_zip.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_add"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_add.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_add_light"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_add_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_copy"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_copy.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_copy_light"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_copy_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_cut"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_cut.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_cut_light"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_cut_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_delete"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_delete.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_delete_light"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_delete_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_navigate"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_navigate.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_navigate_light"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_navigate_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_paste"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_paste.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_paste_light"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_paste_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_refresh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_refresh_light"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_refresh_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_rename"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_rename.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_rename_light"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_rename_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_select"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_select.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_select_light"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_select_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_share"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_share.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_share_light"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_action_share_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_notif_sdcard_rescan"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/ic_notif_sdcard_rescan.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_actions"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/list_actions.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_actions_blu"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/list_actions_blu.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_actions_glow"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-hdpi/list_actions_glow.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="donwloadfragment"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/layout/donwloadfragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="download_item"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/layout/download_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fileitem"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/layout/fileitem.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="filelistlayout"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/layout/filelistlayout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="file_exploer"
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/menu/file_exploer.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >FileExploerExample
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/vietanha34/Documents/workspace/workspace/FileExploerExampleProject/FileExploerExample/src/debug/res" />
+    </dataSet>
+
+</merger>
